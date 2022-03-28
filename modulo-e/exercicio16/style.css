@@ -22,7 +22,7 @@ section{
  box-shadow: 3px 3px 1px var(--cor1);
 }
 div{
-  text-align: left;
+  text-align: center;
   padding: 10px;
 }
 div > img{
